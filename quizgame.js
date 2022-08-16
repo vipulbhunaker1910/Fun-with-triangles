@@ -1,6 +1,6 @@
 const selectedvalues=document.querySelector(".form-input");
-var btn=document.querySelector("#btn-submit");
-var outputs=document.querySelector("#output");
+var btn=document.querySelector("#btn-submit1");
+var outputs=document.querySelector("#output1");
 
 var answers=['90°', 'right angled'];
 function checkscore(){
